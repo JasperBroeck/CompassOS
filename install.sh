@@ -67,7 +67,7 @@ sudo cp -r wallpaper.jpg ~/wallpaper.jpg
 clear
 
 echo " ###################################### "
-echo " ### Starting up display manager... ### "
+echo " ### Starting up services... ### "
 echo " ###################################### "
 echo ""
 sleep 0.5
