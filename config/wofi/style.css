@@ -1,0 +1,47 @@
+* {
+  font-family: Consolas ligaturizedv3,Roboto, Helvetica, Arial, sans-serif;
+}
+
+window {
+  margin: 1px;
+  border: 5px solid #ffffff;
+  border-radius: 23px;
+  background-color: transparent
+}
+
+#input {
+  margin: 5px;
+  border-radius: 0px;
+  border: none;
+  border-bottom: 0px solid #c0caf5;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+#inner-box {
+  margin: 5px;
+  background-color: transparent;
+}
+
+#outer-box {
+  margin: 3px;
+  padding: 20px;
+  background-color: rgba(68, 24, 6, 0.90);
+  border-radius: 20px;
+}
+
+#text {
+  margin: 5px;
+  color: #ffffff;
+}
+
+#entry:selected {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+  color: #8e3900;
+}
+
+#text:selected {
+  text-decoration-color: #8e3900;
+  color: #8e3900
+}
