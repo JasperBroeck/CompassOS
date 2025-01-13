@@ -66,8 +66,8 @@ cd config
 sudo cp -r hypr/ ~/.config/hypr/
 sudo cp -r waybar/ ~/.config/waybar/
 sudo cp -r wofi/ ~/.config/wofi/
+sudo cp -r wallpaper.jpg ~/wallpaper.jpg
 
-sleep 1.5
 clear
 
 echo " ###################################### "
