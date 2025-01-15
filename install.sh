@@ -49,7 +49,7 @@ echo ""
 sleep 0.5
 paru -S  flatpak freecad musescore btop steam kdenlive gdm gnome-text-editor gnome-disk-utility gdm hyprland hyprpaper waybar wofi firefox nautilus nano git wget curl dpkg discord minecraft-launcher balena-etcher spotify obsidian kitty hyprshot blueman ttf-font-awesome brightnessctl hyprsunset
 flatpak install flathub io.github.shiftey.Desktop
-
+curl -f https://zed.dev/install.sh | sh
 
 clear
 
